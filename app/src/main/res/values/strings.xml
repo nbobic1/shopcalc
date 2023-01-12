@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ml-kit-v1</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="total_0">Total: 0</string>
+    <string name="ljevo"><![CDATA[<-]]></string>
+    <string name="x">X</string>
+    <string name="desož"><![CDATA[->]]></string>
+    <string name="list">LIST</string>
+    <string name="calc">CALC</string>
+    <string name="shop1"><u>SHOP</u></string>
+    <string name="list1"><u>LIST</u></string>
+    <string name="calc1"><u>CALC</u></string>
+    <string name="shop">SHOP</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846999437701",
+    "project_id": "shopcalc-45ec5",
+    "storage_bucket": "shopcalc-45ec5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846999437701:android:7349382f390967c16484ec",
+        "android_client_info": {
+          "package_name": "my.shop.shopcalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846999437701-sondbe1a15rcsrmbruqofg1ol6k0o1tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEKwRiB9r965Hbwm6NIw1fJqsaQdvILao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846999437701-sondbe1a15rcsrmbruqofg1ol6k0o1tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
